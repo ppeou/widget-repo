@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Summary renders correctly 1`] = `
+<section>
+  <h1>
+    Summary Component
+  </h1>
+</section>
+`;
